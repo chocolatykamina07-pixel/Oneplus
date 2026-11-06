@@ -17,4 +17,3 @@ distribution: 'temurin'
 java-version: '17'
 - name: Build with Gradle
 run: ./gradlew assembleDebug
-Paste karne ke baad, screen ke bottom mein blue ya green "Commit changes" button par click karein.
